@@ -1,7 +1,7 @@
 {
   "home": {
-    "name": "ByteKai",
-    "title": "Software Engineer & Curious Tinkerer",
+    "name": "AimanDev",
+    "title": "Junior Developer",
     "introduction": "I’m constantly learning and evolving. I love diving into new ideas and finding creative ways to solve problems.",
     "sections": {
       "blog": {
@@ -21,6 +21,10 @@
       {
         "platform": "GitHub",
         "url": "https://github.com/bytekai"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://x.com/byteekai"
       },
       {
         "platform": "Twitter",
