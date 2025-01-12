@@ -82,33 +82,33 @@ const featuredProjects = projects.filter((project: CollectionEntry<"projects">) 
       </ContentList>
     </Section>
 
-    <section class="section">
-      <div class="section-header">
-        <h2>{site.sections.projects.title}</h2>
-        <a href="/projects">{site.sections.projects.viewAllText}</a>
-      </div>
-      <ContentList>
-        {
-          featuredProjects.map((project) => (
-            <article>
-              <div class="title-row">
-                <a href={project.data.url} target="_blank" rel="noopener noreferrer">
-                  {project.data.title}
-                </a>
-              </div>
-              <p class="muted-text">{project.data.description}</p>
-              {project.data.techs && (
-                <div class="tags">
-                  {project.data.techs.map((tech) => (
-                    <span>{tech}</span>
-                  ))}
+      <!-- <section class="section">
+        <div class="section-header">
+          <h2>{site.sections.projects.title}</h2>
+          <a href="/projects">{site.sections.projects.viewAllText}</a>
+        </div>
+        <ContentList>
+          {
+            featuredProjects.map((project) => (
+              <article>
+                <div class="title-row">
+                  <a href={project.data.url} target="_blank" rel="noopener noreferrer">
+                    {project.data.title}
+                  </a>
                 </div>
-              )}
-            </article>
-          ))
-        }
-      </ContentList>
-    </section>
+                <p class="muted-text">{project.data.description}</p>
+                {project.data.techs && (
+                  <div class="tags">
+                    {project.data.techs.map((tech) => (
+                      <span>{tech}</span>
+                    ))}
+                  </div>
+                )}
+              </article>
+            ))
+          }
+        </ContentList>
+      </section> -->
 
     <section class="section">
       <div class="section-header">
