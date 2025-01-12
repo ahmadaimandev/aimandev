@@ -5,15 +5,15 @@
     "introduction": "I am always learning and growing, constantly exploring new concepts and discovering innovative solutions to challenges.",
     "sections": {
       "blog": {
-        "title": "My Tech Stack",
+        "title": "About Me",
         "viewAllText": "View all posts"
       },
       "projects": {
-        "title": "Projects",
+        "title": "My Tech Stack",
         "viewAllText": "View all projects"
       },
       "experience": {
-        "title": "Experience",
+        "title": "test",
         "viewAllText": "View full résumé"
       }
     },
@@ -31,8 +31,8 @@
         "url": "https://x.com/elsinfantasma"
       },
       {
-        "platform": "Discord",
-        "url": "https://x.com/elsinfantasma"
+        "platform": "Instagram",
+        "url": "https://instagram.com/justcallmeaiman_"
       }
     ]
   }

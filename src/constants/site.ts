@@ -7,7 +7,7 @@ export const SITE = {
     name: "Ahmad Aiman",
     title: "Fullstack Developer And Still Learning",
     description: "Personal portfolio and blog",
-    url: "https://bytekai.dev",
+    url: "",
     defaultImage: "/default-og-image.jpg",
 } as const;
 
@@ -18,6 +18,7 @@ export const NAVIGATION: {
         { name: "Home", path: "/" },
         { name: "Blog", path: "/blog" },
         { name: "Projects", path: "/projects" },
+        { name: "Experience", path: "/experience" },
     ],
 } as const;
 
