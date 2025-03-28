@@ -4,8 +4,8 @@ export type NavigationItem = {
 };
 
 export const SITE = {
-    name: "ByteKai",
-    title: "Software Engineer & Curious Tinkerer",
+    name: "AimanDev",
+    title: "Fullstack Developer & Gamer",
     description: "Personal portfolio and blog",
     url: "https://bytekai.dev",
     defaultImage: "/default-og-image.jpg",
@@ -15,10 +15,11 @@ export const NAVIGATION: {
     main: NavigationItem[];
 } = {
     main: [
-        { name: "Home", path: "/" },
-        { name: "Blog", path: "/blog" },
+        { name: "AimanDev", path: "/" },
+        { name: "About Me", path: "/about-me" },
+        { name: "Projects", path: "/projects" },
         { name: "Notes", path: "/notes" },
-        { name: "Bookmarks", path: "/bookmarks" }
+        { name: "Blog", path: "/blog" }
     ],
 } as const;
 

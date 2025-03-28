@@ -2,19 +2,23 @@ import type { Navigation } from "../types/navigation";
 
 export const NAVIGATION: Navigation = [
     {
-        name: "Home",
+        name: "AimanDev",
         path: "/",
     },
     {
-        name: "Blog",
-        path: "/blog",
+        name: "About Me",
+        path: "/about-me",
+    },
+    {
+        name: "Projects",
+        path: "/projects",
     },
     {
         name: "Notes",
         path: "/notes",
     },
     {
-        name: "Bookmarks",
-        path: "/bookmarks",
+        name: "Blog",
+        path: "/blog",
     },
 ]; 

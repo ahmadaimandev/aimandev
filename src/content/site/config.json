@@ -1,11 +1,11 @@
 {
   "home": {
-    "name": "ByteKai",
-    "title": "Software Engineer & Curious Tinkerer",
-    "introduction": "I’m constantly learning and evolving. I love diving into new ideas and finding creative ways to solve problems.",
+    "name": "AimanDev",
+    "title": "Fullstack Developer",
+    "introduction": "I’m constantly learning and evolving. I love play games to 💕.",
     "sections": {
       "blog": {
-        "title": "Writing",
+        "title": "My Blog",
         "viewAllText": "View all posts"
       },
       "projects": {
@@ -19,11 +19,23 @@
     },
     "socialLinks": [
       {
-        "platform": "GitHub",
+        "platform": "LinkedIn",
         "url": "https://github.com/bytekai"
       },
       {
+        "platform": "Github",
+        "url": "https://x.com/byteekai"
+      },
+      {
         "platform": "Twitter",
+        "url": "https://x.com/byteekai"
+      },
+      {
+        "platform": "Instagram",
+        "url": "https://x.com/byteekai"
+      },
+      {
+        "platform": "Steam",
         "url": "https://x.com/byteekai"
       }
     ]
